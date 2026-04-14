@@ -1,78 +1,101 @@
 <h1 align="center">Hi 👋, I'm Farkhanda Moqim</h1>
 
-<h3 align="center">💻 BSCS Student | Web Developer | AI Enthusiast</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=BS+Computer+Science+Student;Web+Developer;AI+Enthusiast;Always+Learning+New+Things" />
+</h3>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farkhanda-moqim-034a9a325/">
-    <img src="https://img.shields.io/badge/LinkedIn-Farkhanda%20Moqim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Farkhanda%20Moqim-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  &nbsp;
   <a href="mailto:farkhandamoqim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-farkhandamoqim@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" />
   </a>
-  &nbsp;
   <a href="https://github.com/farkhandamoqim12345">
-    <img src="https://img.shields.io/badge/GitHub-Farkhanda--Moqim-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 🌙 About Me
+## 👩‍💻 About Me
 
-✨ BS Computer Science student passionate about building modern web apps and AI-based systems.  
-✨ I love solving real-world problems with clean and efficient code.  
-
-- 🔭 Currently working on: Web & AI Projects  
-- 🌱 Learning: React, Flask, MongoDB  
-- 💡 Interests: Software Engineering & Artificial Intelligence  
-- 🤝 Open to: Collaboration & Open Source  
+- 🎓 BS Computer Science Student  
+- 💻 Passionate about Web Development & AI  
+- 🚀 Currently learning **Flask, MongoDB, React**  
+- 🎯 Goal: Build real-world impactful applications  
+- 🤝 Open for collaboration  
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,flask,nodejs,mongodb,mysql,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,flask,nodejs,mongodb,mysql,git,vscode" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 📌 Featured Projects
 
-| 💻 Project | 📄 Description | ⚙️ Tech |
-|-----------|--------------|--------|
-| 🕌 Namaz Guidance App | Islamic app with login & guidance system | Java |
-| 🤖 AI Study Buddy | Smart assistant for students | Java |
-| 🏎️ Super Car Racer 3D | Interactive racing game | Python |
-| 🏏 Cricket Tournament System | Manage teams & matches (GUI) | C# |
-| 📄 AI Summarizer | AI-based text summarizer | C# |
-| 💻 Cricket CLI System | Command-line cricket system | C# |
+### 🔹 Namaz Guidance App
+- 📱 Islamic mobile app with splash screen & login  
+- 🛠 Java  
 
----
+### 🔹 AI Study Buddy
+- 🤖 AI-based assistant for students  
+- 🛠 Java  
 
-## 📊 GitHub Analytics
+### 🔹 Super Car Racer 3D
+- 🎮 3D racing game  
+- 🛠 Python  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farkhandamoqim12345&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farkhandamoqim12345&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🔹 Cricket Tournament Management System
+- 🏏 Manage teams, matches & scores  
+- 🛠 C#  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=farkhandamoqim12345&theme=tokyonight&hide_border=true" />
-</p>
+### 🔹 AI Summarizer
+- ✍️ Text summarization tool  
+- 🛠 C#  
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  📧 farkhandamoqim@gmail.com <br>
-  💼 linkedin.com/in/farkhanda-moqim-034a9a325 <br>
-  💻 github.com/farkhandamoqim12345
-</p>
+### 🔹 Cricket Tournament CLI
+- 💻 Command-line cricket system  
+- 🛠 C#  
 
 ---
 
-<h3 align="center">✨ "Code. Learn. Build. Repeat." ✨</h3>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farkhandamoqim12345&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farkhandamoqim12345&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=farkhandamoqim12345&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: farkhandamoqim@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/farkhanda-moqim-034a9a325/  
+
+---
+
+> 💡 *“Consistency is more important than perfection.”*
